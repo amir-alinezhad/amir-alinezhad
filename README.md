@@ -9,7 +9,7 @@
 <img  alt="HTTPie" width="90px" src="https://img.shields.io/badge/HTTPie-6F85D3?style=for-the-badge&logo=httpie&logoColor=white" />
 <img  alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="WordPress" width="90px" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img alt="WordPress" width="90px" src="[https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s)" />
+<img alt="WordPress" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" />
 
 
 <br clear="left"/>
