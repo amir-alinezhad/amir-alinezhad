@@ -13,9 +13,7 @@ What I Work With :
 ![HTTPie](https://img.shields.io/badge/HTTPie-%23000000?style=for-the-badge&logo=httpie&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2R6ZHE2dng3NnBpdnE2bG1taHduYms2MXBreTJxZTFtaXc5bGw2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding Animation" />
-</p>
+
 
 
 
