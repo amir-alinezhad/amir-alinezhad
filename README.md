@@ -4,7 +4,7 @@ I'm a passionate **Backend Web Developer** specializing in **PHP & Laravel**.
 I build scalable web applications, design clean APIs, and optimize database performance.
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2R6ZHE2dng3NnBpdnE2bG1taHduYms2MXBreTJxZTFtaXc5bGw2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2R6ZHE2dng3NnBpdnE2bG1taHduYms2MXBreTJxZTFtaXc5bGw2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="1350" alt="Coding Animation" />
 </p>
 
 ## What I Work With
