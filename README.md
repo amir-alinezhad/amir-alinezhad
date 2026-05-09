@@ -1,23 +1,95 @@
-# Hi there :wave:, I'm Amir
-
-I'm a passionate **Backend Web Developer** specializing in **PHP & Laravel**.  
-I build scalable web applications, design clean APIs, and optimize database performance.
+<h1 align="center">Hi there 👋 I'm Amir</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2R6ZHE2dng3NnBpdnE2bG1taHduYms2MXBreTJxZTFtaXc5bGw2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" alt="Coding Animation" />
+Backend Web Developer | PHP & Laravel Specialist
 </p>
 
-## What I Work With
+<p align="center">
+I build scalable web applications, design clean RESTful APIs, and optimize database performance.
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/HTTPie-%23000000?style=for-the-badge&logo=httpie&logoColor=white" alt="HTTPie" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCEgOELYTJD9m-JMHHxSTWbTEZMzhal6ELQ&s" alt="PhpMyAdmin" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2R6ZHE2dng3NnBpdnE2bG1taHduYms2MXBreTJxZTFtaXc5bGw2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
+</p>
 
+---
+
+<h2 align="center">🧑‍💻 About Me</h2>
+
+- Backend-focused developer  
+- Specialized in Laravel development  
+- Experienced in REST API design  
+- Interested in scalable architecture  
+- Focused on clean and maintainable code  
+
+---
+
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="50"/>
+
+</p>
+
+---
+
+<h2 align="center">🚀 What I Focus On</h2>
+
+- RESTful API Development  
+- Laravel MVC Architecture  
+- Authentication (Sanctum / JWT)  
+- Database Design & Optimization  
+- Writing clean and maintainable backend code  
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet"/>
 </p>
