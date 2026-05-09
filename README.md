@@ -18,4 +18,6 @@ I build scalable web applications, design clean APIs, and optimize database perf
   <img src="https://img.shields.io/badge/HTTPie-%23000000?style=for-the-badge&logo=httpie&logoColor=white" alt="HTTPie" />
   <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="[https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCEgOELYTJD9m-JMHHxSTWbTEZMzhal6ELQ&s)" alt="PhpMyAdmin" />
+
 </p>
