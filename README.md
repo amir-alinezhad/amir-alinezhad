@@ -38,7 +38,14 @@ I build scalable web applications, design clean RESTful APIs, and optimize datab
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="50"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="50"/>
+
+<img src="https://www.vectorlogo.zone/logos/httpie/httpie-icon.svg" height="50"/>
+
+<img src="https://www.phpmyadmin.net/static/images/logo-og.png" height="50"/>
+
 </p>
+
 
 ---
 
@@ -50,29 +57,10 @@ I build scalable web applications, design clean RESTful APIs, and optimize datab
 - Database Design & Optimization  
 - Writing clean and maintainable backend code  
 
----
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-
-</p>
 
 ---
 
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
 
 <h2 align="center">📫 Connect With Me</h2>
 
@@ -82,14 +70,10 @@ I build scalable web applications, design clean RESTful APIs, and optimize datab
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:amiralnzd8389@email.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
 </a>
 
 </p>
 
----
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet"/>
-</p>
